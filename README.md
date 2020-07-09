@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+It was Integrated with WordPress Rest API. 
+* Used Custom Post Type Plugins to add custom post, 
+* Used and Configured JWT authentication plugin to send post request with postman.
+* Used Advanced Custom Fields and ACF-to-REST API field to configure custom fields and make it available with REST API
+
 ## Available Scripts
 
 In the project directory, you can run:
